@@ -1,7 +1,3 @@
-A well-structured README helps others understand and use your project effectively. Below is a professional and detailed README for your **Bosta iOS Task** repository.
-
----
-
 # Bosta iOS Task  
 
 ## 📌 Overview  
