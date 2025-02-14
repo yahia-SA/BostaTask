@@ -34,7 +34,7 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern:
 
 ### 📷 Screenshots  
 ### Profile Screen  
-![Profile Screen](Screenshots/profile.png)
+![Profile Screen](Screenshots/Profile.png)
 
 ### Album Details Screen  
 ![Album Details](Screenshots/Album.png)
